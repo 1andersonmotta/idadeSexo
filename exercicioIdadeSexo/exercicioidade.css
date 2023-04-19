@@ -1,0 +1,82 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2? family = Rubik: wght @ 300 & display = swap'); 
+
+body{
+    background: url('fototarde1.png')  ;
+    background-size: cover;
+
+  
+}
+p#data {
+    font-family: 'Rubik', sans-serif;
+    font-size: 25pt;
+    text-align: center;
+    margin: 5px auto 0px auto;
+    padding: 25px;
+
+}
+p#sexo{
+    font-family: 'Rubik', sans-serif;
+    font-size: 25pt;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    
+        
+}
+
+div{
+    color: rgb(7, 7, 14);
+    text-align: center;
+    position: relative;
+    margin: 15px auto 0px auto;
+    border-radius: 5px;
+    box-shadow: 10px 10px 25px rgb(20, 19, 19);
+    width: 900px;
+    height: 320px;
+    margin-top: 20px;
+
+    background-color: rgba(255, 255, 240, 0.116);
+}
+
+div#res{
+    
+    font: oblique 33pt italic;
+    position: relative;
+    width: 1100px;
+    height: 50px; 
+    margin-top: 0px;
+    box-shadow: none;
+    background-color: rgba(255, 255, 255, 0);
+    
+    
+}
+footer{
+    text-align: center;
+    margin-top: 250px;
+}
+input#bota{
+    position: relative;
+    background:rgba(245, 243, 242, 0.733);
+    font: normal 25pt italic;
+    color: rgb(15, 15, 17);
+    width: 20%;
+    height: 10%;
+    border-radius: 5px;
+    border-style: solid;
+    box-shadow: 2px -2px 1px rgba(243, 242, 242, 0.486),0 0 2vw white,0 0 2vw white,0 0 2vw white;
+}
+input{
+    border-radius: 5px;
+    font-size: 18pt;
+    width: 75px;
+    position: relative;
+    top: -7px;
+}
+img{
+    position: relative;
+    margin: 1px auto 0px auto;
+    width: 210px;
+    height: 220px;
+    
+}
